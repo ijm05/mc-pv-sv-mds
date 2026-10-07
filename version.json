@@ -1,3 +1,4 @@
 {
-  "version": 0.01
+  "version": 0.02
+  "changelog": "Actualización v0.01:\n- Se quitó el mod 'Freecam'\n- Se agregó el mod 'WTHIT' reemplazando el mod 'Jade'\n- Se agregó el mod 'Universal Graves'\n Se agregaron Shaders y Resource Packs incluídos (Verificar requisitos de cada Shader antes de probarlos)"
 }
